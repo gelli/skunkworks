@@ -1,3 +1,3 @@
 # Index
 
-With a link to [test](test.md)
+With a link to [test](test)
